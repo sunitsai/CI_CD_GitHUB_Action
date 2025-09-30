@@ -2,7 +2,7 @@
   "name": "my-product-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sunitsai/CI_CD_GitHUB_Action.git",
+  "homepage": "https://sunitsai.github.io/CI_CD_GitHUB_Action",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.0",
